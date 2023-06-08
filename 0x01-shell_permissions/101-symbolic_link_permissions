@@ -1,2 +1,2 @@
 #!/bin/bash
-cheown -h vincent:staff _hello 
+cheown -h vincent : staff _hello
